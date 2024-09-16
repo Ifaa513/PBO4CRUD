@@ -1,5 +1,7 @@
 Aplikasi Manajemen Buku
+  
   Program ini adalah aplikasi sederhana untuk mengelola data buku yang tersimpan di dalam database PostgreSQL. Aplikasi ini menggunakan JDBC untuk terhubung dengan database, dan menawarkan beberapa fitur seperti menambahkan, menampilkan, menghapus, dan mengupdate data buku.
+  
 Fitur Utama
 	1. Tambah Data Buku: Pengguna dapat menambahkan data buku ke dalam database.
 	2. Tampilkan Data Buku: Program menampilkan semua data buku yang tersimpan di dalam database.
